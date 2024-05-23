@@ -1,0 +1,17 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "main": "kien.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "mocha": "^10.4.0",
+    "should": "^13.2.3",
+    "typescript": "^5.4.5"
+  }
+}
